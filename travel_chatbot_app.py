@@ -32,8 +32,8 @@ question_embeddings = model.encode(questions, convert_to_tensor=True)
 # Streamlit UI
 st.title("Spain Tourism Chatbot")
 st.info("""  
-Welcome to the Spain Tourism Chatbot!  
-Ask me anything about visiting Spain, such as:
+This is a demo chatbot built for Spain tourism.
+You can try asking things like : 
 
 - What are the top tourist destinations?
 - Do I need a visa to visit Spain?
